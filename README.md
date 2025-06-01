@@ -66,7 +66,7 @@
 - 🌐 [Portfolio Website](#)
 - 💼 [LinkedIn](#)
 - 🐦 [Twitter](#)
-- 📬 Email: **your.email@example.com**
+- 📬 Email: **email@io.co**
 
 ---
 

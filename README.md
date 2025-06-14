@@ -72,7 +72,7 @@
 - 🌐 [Portfolio Website](#)
 - 💼 [LinkedIn](#)
 - 🐦 [Twitter](#)
-- 📬 Email: **your.email@example.com**
+- 📬 Email: **mail@iahmed.dev**
 
 ---
 

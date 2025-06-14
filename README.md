@@ -6,7 +6,7 @@
 
 ## 💼 About Me
 
-- 🇺🇸 Based in **Minneapolis, Minnesota, USA** (Originally from **Kenya 🇰🇪**)
+- 🇺🇸 Based in **Minneapolis, Minnesota, USA** (Originally from **Kenya 🇰🇪** )
 - 🐍 Python expert with solid experience in **Django**, **Flask**, and **FastAPI**
 - ☁️ Skilled in designing and deploying cloud infrastructure with **GCP**, **AWS**, and **Azure**
 - 🛠️ Focused on modern **DevOps practices**, automation, and CI/CD pipelines

@@ -1,4 +1,4 @@
-# Hi 👋, my name is Nurudin Ahmed (Haykal Ahmed)
+# Hi 👋, my name is Nurudin Ahmed 
 
 ### Python Backend Engineer | DevOps Specialist | Full-Stack & Mobile Developer | AI Integrator | Cloud Architect (GCP • AWS • Azure)
 

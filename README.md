@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm Haykal Ahmed
+# 👋 Hi there, I'm Nurudin Ahmed
 
 ### Python Backend Engineer | DevOps Specialist | Full-Stack & Mobile Developer | AI Integrator | Cloud Architect
 
@@ -99,17 +99,30 @@ I'm a passionate **Python Backend Engineer** and **DevOps Specialist** with a st
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nurudinso&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nurudinso&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-  
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=nurudinso&theme=radical&hide_border=true&background=0D1117)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nurudinso&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurudinso&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117"/>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nurudinso&theme=radical&bg_color=0D1117&color=FF006E&line=00D9FF&point=FFFFFF&hide_border=true)
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.demolab.com/?user=nurudinso&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=nurudinso&theme=radical&bg_color=0D1117&color=FF006E&line=00D9FF&point=FFFFFF&hide_border=true" />
+
+</div>
+
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nurudinso&color=blueviolet&style=flat-square)
 
 </div>
+
+> **Note:** GitHub stats may take a few minutes to load after your first push. If stats don't appear, ensure your GitHub profile is public and has activity.
 
 ---
 

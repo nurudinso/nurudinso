@@ -106,7 +106,7 @@ I'm a passionate **Python Backend Engineer** and **DevOps Specialist** with a st
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=nurudinso&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=nurudinso&theme=radical&hide_border=true&background=0D1117&border_radius=5&dates=FF006E&ring=00D9FF&fire=FF006E&currStreakLabel=00D9FF)
 
 </div>
 

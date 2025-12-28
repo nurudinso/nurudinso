@@ -28,6 +28,7 @@ I'm a passionate **Python Backend Engineer** and **DevOps Specialist** with a st
 - 🛠️ Implement modern **DevOps practices** with automation and CI/CD pipelines
 - 📱 Develop cross-platform mobile applications with **Flutter**, **React Native**, **Swift**, and **Kotlin**
 - 🎨 Create engaging frontend experiences with **React**, **Vue**, and **Next.js**
+- 🚀 Build scalable **Node.js backends** with **NestJS**
 - 🧠 Integrate **AI/ML capabilities** into backend systems and applications
 - 🔐 Ensure system security through ethical hacking and best practices
 - ⚡ Optimize system performance and scalability
@@ -47,6 +48,7 @@ I'm a passionate **Python Backend Engineer** and **DevOps Specialist** with a st
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" title="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" title="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="50" height="50" alt="Next.js" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="50" height="50" alt="NestJS" title="NestJS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue.js" title="Vue.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" alt="Flutter" title="Flutter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="50" height="50" alt="Swift" title="Swift" />
@@ -97,15 +99,15 @@ I'm a passionate **Python Backend Engineer** and **DevOps Specialist** with a st
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haykalahmed&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nurudinso&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haykalahmed&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nurudinso&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
   
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=haykalahmed&theme=radical&hide_border=true&background=0D1117)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=nurudinso&theme=radical&hide_border=true&background=0D1117)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haykalahmed&theme=radical&bg_color=0D1117&color=FF006E&line=00D9FF&point=FFFFFF&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nurudinso&theme=radical&bg_color=0D1117&color=FF006E&line=00D9FF&point=FFFFFF&hide_border=true)
 
-![Profile Views](https://komarev.com/ghpvc/?username=haykalahmed&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=nurudinso&color=blueviolet&style=flat-square)
 
 </div>
 
@@ -134,13 +136,13 @@ I'm a passionate **Python Backend Engineer** and **DevOps Specialist** with a st
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **Project Name** | Brief description of what it does | Python, FastAPI, Docker | [🔗 View](https://github.com/haykalahmed) |
-| **Another Project** | Brief description of what it does | React, Node.js, AWS | [🔗 View](https://github.com/haykalahmed) |
-| **Mobile App** | Brief description of what it does | Flutter, Firebase | [🔗 View](https://github.com/haykalahmed) |
+| **Project Name** | Brief description of what it does | Python, FastAPI, Docker | [🔗 View](https://github.com/nurudinso) |
+| **Another Project** | Brief description of what it does | React, Node.js, AWS | [🔗 View](https://github.com/nurudinso) |
+| **Mobile App** | Brief description of what it does | Flutter, Firebase | [🔗 View](https://github.com/nurudinso) |
 
 <!-- Replace with your actual projects and links -->
 
-*More projects available on [GitHub](https://github.com/haykalahmed?tab=repositories)*
+*More projects available on [GitHub](https://github.com/nurudinso?tab=repositories)*
 
 </div>
 
@@ -167,9 +169,9 @@ I'm a passionate **Python Backend Engineer** and **DevOps Specialist** with a st
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@iahmed.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haykalahmed)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/haykalahmed)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@haykalahmed)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nurudinso)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/nurudinso)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nurudinso)
 
 </div>
 
@@ -181,9 +183,9 @@ I'm a passionate **Python Backend Engineer** and **DevOps Specialist** with a st
 
 If you find my work interesting or helpful, consider supporting me:
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/haykalahmed)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/haykalahmed)
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/haykalahmed)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/nurudinso)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nurudinso)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/nurudinso)
 
 </div>
 

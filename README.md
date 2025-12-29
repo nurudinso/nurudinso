@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm Nurudin Ahmed
+# 👋 Hi there,  Ahmed
 
 ### Python Backend Engineer | DevOps Specialist | Full-Stack & Mobile Developer | AI Integrator | Cloud Architect
 
@@ -221,7 +221,7 @@ If you find my work interesting or helpful, consider supporting me:
 
 ---
 
-## 🎯 Goals for 2024
+## 🎯 Goals for 202t
 
 - ✅ Goal 1 - *Description*
 - 🎯 Goal 2 - *Description*

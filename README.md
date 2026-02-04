@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, Ahmed
+# 👋 Ahmed
 
-### Deep mode. Building the next thing.
+### Software Engineer • Systems Builder
 
 </div>
 
@@ -10,27 +10,68 @@
 
 ## About
 
-I like building systems, products, and tools that work well in the real world.  
-Mostly backend, infra, mobile, and whatever is needed to ship.
+Engineer focused on building reliable, production-grade systems across backend, mobile, and infrastructure.  
+I work across the stack to ship products that scale and are maintainable long-term.
 
 ---
 
-## Current Focus
+## Core Tech Stack
 
-- Shipping
-- Learning
-- Experimenting
-- Iterating
+**Backend**
+- Node.js (Express, NestJS)
+- Python (FastAPI, Django)
+- REST, gRPC, WebSockets
+
+**Mobile**
+- Flutter
+- Kotlin (Android)
+- Swift (iOS)
+
+**Databases**
+- MongoDB
+- PostgreSQL
+- Redis
+
+**Infrastructure & DevOps**
+- Docker
+- Linux
+- Nginx
+- CI/CD
+- Cloudflare
+
+**Cloud**
+- AWS
+- GCP
+- Azure
+
+---
+
+## What I Build
+
+- POS & ERP systems
+- Payment and terminal integrations
+- Multi-tenant SaaS platforms
+- Real-time mobile ↔ backend systems
+- Automation and infrastructure tooling
+
+---
+
+## Engineering Focus
+
+- Scalable architecture
+- Clean data design
+- Performance & reliability
+- Practical DevOps
+- Shipping working software
 
 ---
 
 ## Projects
 
-Things I’m working on live in the repositories.
+Active work is reflected in the repositories.
 
 ---
 
 ## Contact
 
-📧 mail@iahmed.dev
-
+mail@iahmed.dev
